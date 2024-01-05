@@ -1,7 +1,8 @@
 repo_name: abenteuerzeit/VLC.RecipeManagementModule.Tests
 report_id: e04c322f83f32589ebd0c416592cafee
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T10:25:30+00:00'
+timestamp: '2024-01-05T08:49:19+00:00'
 requested_by: abenteuerzeit
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/abenteuerzeit/VLC.RecipeManagementModule.Tests
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/VLC.RecipeManagementModule.Tests/blob/master/VLC.RecipeManagementModule.Tests.csproj
   detection_source: VLC.RecipeManagementModule.Tests.csproj
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-02-27 07:17:14.000000000 Z
@@ -41,7 +44,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: VLC.RecipeManagementModule.Tests.csproj
+  detection_source_url: https://github.com/abenteuerzeit/VLC.RecipeManagementModule.Tests/blob/master/VLC.RecipeManagementModule.Tests.csproj
   detection_source: VLC.RecipeManagementModule.Tests.csproj
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-02-27 07:17:14.000000000 Z
@@ -56,7 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: VLC.RecipeManagementModule.Tests.csproj
+  detection_source_url: https://github.com/abenteuerzeit/VLC.RecipeManagementModule.Tests/blob/master/VLC.RecipeManagementModule.Tests.csproj
   detection_source: VLC.RecipeManagementModule.Tests.csproj
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-02-27 07:17:14.000000000 Z
@@ -68,6 +71,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/abenteuerzeit/VLC.RecipeManagementModule.Tests
   detection_source: Repo Metadata
 - name: NUnit
   description: An open-source unit testing framework
@@ -77,6 +81,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2371/jZ6MYx5Y_400x400.png
+  detection_source_url: https://github.com/abenteuerzeit/VLC.RecipeManagementModule.Tests/blob/master/VLC.RecipeManagementModule.Tests.csproj
   detection_source: VLC.RecipeManagementModule.Tests.csproj
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-02-27 07:17:14.000000000 Z
@@ -88,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/abenteuerzeit/VLC.RecipeManagementModule.Tests/blob/master/VLC.RecipeManagementModule.Tests.csproj
   detection_source: VLC.RecipeManagementModule.Tests.csproj
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-02-27 07:17:14.000000000 Z
@@ -100,6 +106,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/abenteuerzeit/VLC.RecipeManagementModule.Tests/blob/master/VLC.RecipeManagementModule.Tests.sln
   detection_source: VLC.RecipeManagementModule.Tests.sln
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-02-27 07:17:14.000000000 Z
@@ -113,7 +120,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14032/default_d7aac93834660e78f9472e855fbe3ccf7a336ec3.png
-  detection_source_url: VLC.RecipeManagementModule.Tests.csproj
+  detection_source_url: https://github.com/abenteuerzeit/VLC.RecipeManagementModule.Tests/blob/master/VLC.RecipeManagementModule.Tests.csproj
   detection_source: VLC.RecipeManagementModule.Tests.csproj
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-02-27 07:17:14.000000000 Z
@@ -128,7 +135,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13059/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
-  detection_source_url: VLC.RecipeManagementModule.Tests.csproj
+  detection_source_url: https://github.com/abenteuerzeit/VLC.RecipeManagementModule.Tests/blob/master/VLC.RecipeManagementModule.Tests.csproj
   detection_source: VLC.RecipeManagementModule.Tests.csproj
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-02-27 07:17:14.000000000 Z
@@ -142,7 +149,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13150/default_81ac985912284073db895b0d26abf3657532a164.png
-  detection_source_url: VLC.RecipeManagementModule.Tests.csproj
+  detection_source_url: https://github.com/abenteuerzeit/VLC.RecipeManagementModule.Tests/blob/master/VLC.RecipeManagementModule.Tests.csproj
   detection_source: VLC.RecipeManagementModule.Tests.csproj
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-02-27 07:17:14.000000000 Z
@@ -157,7 +164,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13216/default_e23dabba1be2c69fbf5fc50bdc46cbffbe6ca2cb.png
-  detection_source_url: VLC.RecipeManagementModule.Tests.csproj
+  detection_source_url: https://github.com/abenteuerzeit/VLC.RecipeManagementModule.Tests/blob/master/VLC.RecipeManagementModule.Tests.csproj
   detection_source: VLC.RecipeManagementModule.Tests.csproj
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-02-27 07:17:14.000000000 Z
